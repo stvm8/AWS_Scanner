@@ -1,0 +1,17 @@
+# AWS regions to scan in addition to the default US regions
+# One region per line, must be valid AWS region format
+# Lines starting with # are ignored
+
+# US regions
+us-east-1
+us-east-2
+us-west-1
+us-west-2
+
+# EU regions
+
+# Asia-Pacific regions
+
+# South America
+
+# Canada
