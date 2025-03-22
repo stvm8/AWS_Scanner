@@ -1,0 +1,21 @@
+{
+	"user": {
+		"list-attached-user-policies": {"param_name": "UserName"},
+		"list-user-policies": {"param_name": "UserName"},
+		"list-groups-for-user": {"param_name": "UserName"}
+	},
+	"role": {
+		"get-role": {"param_name": "RoleName"},
+		"list-attached-role-policies": {"param_name": "RoleName"},
+		"list-role-policies": {"param_name": "RoleName"}
+	},
+	"group": {
+		"get-group": {"param_name": "GroupName"},
+		"list-attached-group-policies": {"param_name": "GroupName"},
+		"list-group-policies": {"param_name": "GroupName"}
+	},
+	"policy": {
+		"get-policy": {"param_name": "PolicyArn"},
+		"list-policy-versions": {"param_name": "PolicyArn"}
+	}
+}
